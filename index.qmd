@@ -3,16 +3,19 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: "img/Davi Escritorio.jpg"
 ---
 
 :::{#me}
 
 ## Goals
 
+I would like to be able to develop statistical skills and share them with as many people as possible, so that knowledge is free and available to all audiences, minimizing scientific ignorance.
+
+
 ## Education
 
-## Experience
+I graduated in statistics from the State University of Paraíba in 2023. In 2024, I began my master's degree in statistics and agricultural experimentation at the Federal University of Lavras, with a research line in spatial statistics/geostatistics, which I expect to complete in March 2026.
 
 :::
 
